@@ -45,7 +45,7 @@ public class NearestPrime
    
    public static void  main(String[] args)
    {
-      System.out.println( findPrime( 10 ) );
+      
       
    }
 
