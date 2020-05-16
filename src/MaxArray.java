@@ -3,6 +3,7 @@ public class MaxArray
 {
    public int maxSubArray( int[] nums )
    {
+// add line
 
       int max_so_far = nums[0]; 
       int curr_max = nums[0]; 
